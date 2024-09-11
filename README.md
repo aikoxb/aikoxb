@@ -1,6 +1,6 @@
 ## Hi, my name is Aiko 👋 
 
-A Video Editor turned Programmer. Currently a Software Engineering student.
+A Video Editor turned Software Developer, currently pursuing Software Engineering. Passionate about building innovative solutions and continuously learning new technologies. Always eager to contribute to interesting projects and collaborate with others.
 
 <!--
 **aikoxb/aikoxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
